@@ -1,0 +1,9 @@
+Twitter Search Viewer
+
+Provides an easy to setup web site that will display tweets based on search terms.
+
+TO DO:
+
+- auto refresh results
+- UI design
+- textbox for user supplied search terms 

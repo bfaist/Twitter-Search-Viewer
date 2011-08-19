@@ -1,0 +1,13 @@
+<!doctype html><html>
+  <head>
+      <script type="text/javascript"
+              src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+      <script type="text/javascript" src="/js/default.js"></script>
+      <link rel="stylesheet" type="text/css" media="all" href="/css/reset.css" />
+      <link rel="stylesheet" type="text/css" media="all" href="/css/text.css" />
+      <link rel="stylesheet" type="text/css" media="all" href="/css/960.css" />
+      <link rel="stylesheet" type="text/css" href="/css/default.css"/>
+      <title><%= title %></title>
+  </head>
+  <body><%= content %></body>
+</html>

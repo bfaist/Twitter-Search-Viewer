@@ -1,0 +1,20 @@
+body {
+	font-size: 16pt;
+}
+
+.display_name {
+	font-weight: bold;
+}
+
+#search_results_table {
+	border-collapse: collapse;
+}
+
+.user_icon {
+	vertical-align: middle;
+}
+
+.tweet_text {
+	border: 3px solid white;
+	background-color: #B7EFB1;
+}

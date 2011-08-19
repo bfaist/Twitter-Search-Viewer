@@ -1,0 +1,9 @@
+{
+	"title": "Perl Tweets",
+	"search_properties": [
+		{ "search_term": "perl",        "search_term_type": "hashtag" },
+		{ "search_term": "CPAN",        "search_term_type": "hashtag" },
+		{ "search_term": "mojolicious", "search_term_type": "hashtag" },
+		{ "search_term": "perl",         "search_term_type": "word" }
+	]
+}

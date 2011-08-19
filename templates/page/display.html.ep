@@ -1,0 +1,16 @@
+% layout 'default';
+% title $title;
+<div class="container_12" id="hashtag_list">
+<div class="grid_3">
+<h1><%== $title %></h1>
+<ul>
+<% foreach my $property_rec (@$all_search_properties) { %>
+<li><a href="#" id="<%== $property_rec->{search_term_type} %>:<%== $property_rec->{search_term} %>">
+<% if($property_rec->{search_term_type} eq 'hashtag') { %>#<% } %>
+<%== $property_rec->{search_term} %>
+</a></li>
+<% } %>
+</ul>
+</div>
+<div class="grid_9" id="tweet_list"> </div>
+</div>
