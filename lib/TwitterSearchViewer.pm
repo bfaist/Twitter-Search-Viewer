@@ -6,11 +6,11 @@ sub startup {
   my $self = shift;
 
   # Documentation browser under "/perldoc" (this plugin requires Perl 5.10)
-  $self->plugin('pod_renderer');
+  $self->plugin('PODRenderer');
 
   $self->secret('perlrocks');
 
-  my $config = $self->plugin( 'json_config' => { file=>'config.json' } );
+  my $config = $self->plugin( 'JSONConfig' => { file=>'config.json' } );
 
   # Routes
   my $r = $self->routes;
