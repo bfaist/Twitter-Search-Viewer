@@ -2,7 +2,7 @@
 <% foreach my $search_result (@{ $search_results->{results} }) { %>
 <tr class="tweet_row">
 <td class="user_icon"><img src="<%== $search_result->{profile_image_url} %>"/></td>
-<td class="tweet_text">
+<td class="tweet_text triangle-border left">
    <span class="display_name"><%== $search_result->{from_user} %>: </span>
    <%== $search_result->{text} %>
 </td>

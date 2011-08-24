@@ -4,6 +4,8 @@
 		{ "search_term": "perl",        "search_term_type": "hashtag" },
 		{ "search_term": "CPAN",        "search_term_type": "hashtag" },
 		{ "search_term": "mojolicious", "search_term_type": "hashtag" },
-		{ "search_term": "perl",         "search_term_type": "word" }
+		{ "search_term": "YAPC",        "search_term_type": "hashtag" },
+		{ "search_term": "perl6",       "search_term_type": "hashtag" },
+		{ "search_term": "perl",        "search_term_type": "word" }
 	]
 }

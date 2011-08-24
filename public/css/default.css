@@ -1,5 +1,10 @@
 body {
-	font-size: 16pt;
+	font-size: 14pt;
+}
+
+.search_term_item {
+	list-style: none;
+	padding: 7px;
 }
 
 .display_name {
@@ -11,10 +16,13 @@ body {
 }
 
 .user_icon {
-	vertical-align: middle;
+	padding-right: 25px;
+	vertical-align: top;
+}
+
+.tweet_row {
 }
 
 .tweet_text {
-	border: 3px solid white;
-	background-color: #B7EFB1;
+	background-color: #EEEEEE;
 }

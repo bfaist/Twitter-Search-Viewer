@@ -5,7 +5,7 @@
 <h1><%== $title %></h1>
 <ul>
 <% foreach my $property_rec (@$all_search_properties) { %>
-<li><a href="#" id="<%== $property_rec->{search_term_type} %>:<%== $property_rec->{search_term} %>">
+<li class="search_term_item"><a href="#" id="<%== $property_rec->{search_term_type} %>:<%== $property_rec->{search_term} %>">
 <% if($property_rec->{search_term_type} eq 'hashtag') { %>#<% } %>
 <%== $property_rec->{search_term} %>
 </a></li>
