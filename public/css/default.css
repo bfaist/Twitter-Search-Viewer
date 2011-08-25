@@ -11,16 +11,14 @@ body {
 	font-weight: bold;
 }
 
-#search_results_table {
-	border-collapse: collapse;
-}
-
 .user_icon {
 	padding-right: 25px;
 	vertical-align: top;
 }
 
-.tweet_row {
+.user_icon img {
+	width: 64px;
+	height: 64px;
 }
 
 .tweet_text {

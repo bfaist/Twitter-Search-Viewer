@@ -29,7 +29,25 @@ sub search {
 
    my $result = $t->search($query);
 
-   return $result;
+   my $filtered_result = $self->apply_filters($result);
+
+   return $filtered_result;
+}
+
+sub apply_filters {
+   my $self = shift;
+   my $search_results = shift;
+
+   foreach my $result (@{ $search_results->{results} }) {
+       # http://daringfireball.net/2009/11/liberal_regex_for_matching_urls
+       if($result->{text} =~ m!\b(([\w-]+://?|www[.])[^\s()<>]+(?:\([\w\d]+\)|([^[:punct:]\s]|/)))!) {
+            my $link_in_text = $1;
+            my $link_to_replace = quotemeta($1);
+            $result->{text} =~ s/$link_to_replace/<a target="_blank" href="$link_in_text">$link_in_text<\/a>/;
+       } 
+   }
+
+   return $search_results;
 }
 
 1;

@@ -1,2 +1,409 @@
 [Wed Aug 24 00:01:53 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
 [Wed Aug 24 00:01:55 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:50:09 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 22:50:13 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:50:19 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:50:19 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 22:50:19 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 22:50:19 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 22:50:19 2011] [debug] 200 OK (0.070454s, 14.194/s).
+[Wed Aug 24 22:50:20 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:50:20 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:50:21 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 22:50:21 2011] [debug] 200 OK (1.279400s, 0.782/s).
+[Wed Aug 24 22:50:54 2011] [debug] GET /ajax/hashtag/mojolicious (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:50:54 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:50:55 2011] [debug] 200 OK (0.583033s, 1.715/s).
+[Wed Aug 24 22:51:57 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 22:51:59 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:52:03 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:52:03 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 22:52:03 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 22:52:03 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 22:52:03 2011] [debug] 200 OK (0.066637s, 15.007/s).
+[Wed Aug 24 22:52:03 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:52:03 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:52:04 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 22:52:04 2011] [debug] 200 OK (0.864948s, 1.156/s).
+[Wed Aug 24 22:52:17 2011] [debug] GET /ajax/hashtag/CPAN (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:52:17 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:52:17 2011] [debug] 200 OK (0.392901s, 2.545/s).
+[Wed Aug 24 22:52:52 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 22:52:55 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:52:59 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:52:59 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 22:52:59 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 22:52:59 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 22:52:59 2011] [debug] 200 OK (0.042672s, 23.435/s).
+[Wed Aug 24 22:52:59 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:52:59 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:53:00 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 22:53:00 2011] [debug] 200 OK (0.829613s, 1.205/s).
+[Wed Aug 24 22:53:36 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 22:53:38 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:53:41 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:53:41 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 22:53:41 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 22:53:41 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 22:53:41 2011] [debug] 200 OK (0.055442s, 18.037/s).
+[Wed Aug 24 22:53:42 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:53:42 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:53:42 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 22:53:42 2011] [debug] 200 OK (0.904938s, 1.105/s).
+[Wed Aug 24 22:54:45 2011] [debug] GET /ajax/hashtag/CPAN (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:54:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:54:45 2011] [debug] 200 OK (0.386236s, 2.589/s).
+[Wed Aug 24 22:55:31 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 22:55:34 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 22:55:38 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:55:38 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 22:55:38 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 22:55:38 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 22:55:38 2011] [debug] 200 OK (0.060227s, 16.604/s).
+[Wed Aug 24 22:55:38 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:55:38 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:55:39 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 22:55:39 2011] [debug] 200 OK (0.861775s, 1.160/s).
+[Wed Aug 24 22:55:45 2011] [debug] GET /ajax/hashtag/mojolicious (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:55:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:55:46 2011] [debug] 200 OK (0.333154s, 3.002/s).
+[Wed Aug 24 22:56:21 2011] [debug] GET /ajax/hashtag/perl6 (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 22:56:21 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 22:56:22 2011] [debug] 200 OK (0.327423s, 3.054/s).
+[Wed Aug 24 23:01:39 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:01:42 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:01:45 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:01:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:01:45 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:01:45 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:01:45 2011] [debug] 200 OK (0.062436s, 16.016/s).
+[Wed Aug 24 23:01:45 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:01:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:01:46 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:01:46 2011] [debug] 200 OK (0.995397s, 1.005/s).
+[Wed Aug 24 23:01:59 2011] [debug] GET /ajax/hashtag/mojolicious (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:01:59 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:02:00 2011] [debug] 200 OK (0.570847s, 1.752/s).
+[Wed Aug 24 23:02:06 2011] [debug] GET /ajax/hashtag/YAPC (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:02:06 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:02:07 2011] [debug] 200 OK (0.549278s, 1.821/s).
+[Wed Aug 24 23:04:15 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:04:18 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:04:22 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:04:22 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:04:22 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:04:22 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:04:22 2011] [debug] 200 OK (0.060849s, 16.434/s).
+[Wed Aug 24 23:04:23 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:04:23 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:04:24 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:04:24 2011] [debug] 200 OK (0.824878s, 1.212/s).
+[Wed Aug 24 23:05:21 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:05:23 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:05:26 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:05:26 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:05:26 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:05:26 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:05:26 2011] [debug] 200 OK (0.053784s, 18.593/s).
+[Wed Aug 24 23:05:26 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:05:26 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:05:27 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:05:27 2011] [debug] 200 OK (0.858076s, 1.165/s).
+[Wed Aug 24 23:07:01 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:07:03 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:07:05 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:07:05 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:07:05 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:07:05 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:07:05 2011] [debug] 200 OK (0.050968s, 19.620/s).
+[Wed Aug 24 23:07:06 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:07:06 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:07:07 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:07:07 2011] [debug] 200 OK (0.804893s, 1.242/s).
+[Wed Aug 24 23:07:09 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:07:09 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:07:09 2011] [debug] 200 OK (0.007788s, 128.403/s).
+[Wed Aug 24 23:07:09 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:07:09 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:07:10 2011] [debug] 200 OK (0.400527s, 2.497/s).
+[Wed Aug 24 23:10:15 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:10:18 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:10:20 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:10:20 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:10:20 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:10:21 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:10:21 2011] [debug] 200 OK (0.049452s, 20.222/s).
+[Wed Aug 24 23:10:21 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:10:21 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:10:22 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:10:22 2011] [debug] 200 OK (0.832306s, 1.201/s).
+[Wed Aug 24 23:11:05 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:11:07 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:11:11 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:11:11 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:11:11 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:11:11 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:11:11 2011] [debug] 200 OK (0.042914s, 23.302/s).
+[Wed Aug 24 23:11:12 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:11:12 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:11:12 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:11:12 2011] [debug] 200 OK (0.828392s, 1.207/s).
+[Wed Aug 24 23:11:16 2011] [debug] GET /ajax/hashtag/CPAN (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:11:16 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:11:17 2011] [debug] 200 OK (0.394031s, 2.538/s).
+[Wed Aug 24 23:17:17 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:17:20 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:17:23 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:17:23 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:17:23 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:17:23 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:17:23 2011] [debug] 200 OK (0.052027s, 19.221/s).
+[Wed Aug 24 23:17:23 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:17:23 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:17:24 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:17:24 2011] [debug] 200 OK (0.882331s, 1.133/s).
+[Wed Aug 24 23:20:02 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:20:05 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:20:24 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:20:24 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:20:24 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:20:24 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:20:24 2011] [debug] 200 OK (0.057601s, 17.361/s).
+[Wed Aug 24 23:20:24 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:20:24 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:20:25 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:20:25 2011] [debug] 200 OK (0.822830s, 1.215/s).
+[Wed Aug 24 23:22:15 2011] [debug] GET /ajax/hashtag/mojolicious (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:22:15 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:22:16 2011] [debug] 200 OK (0.645086s, 1.550/s).
+[Wed Aug 24 23:22:22 2011] [debug] GET /ajax/hashtag/YAPC (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:22:22 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:22:22 2011] [debug] 200 OK (0.411925s, 2.428/s).
+[Wed Aug 24 23:22:26 2011] [debug] GET /ajax/hashtag/perl6 (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:22:26 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:22:27 2011] [debug] 200 OK (0.445226s, 2.246/s).
+[Wed Aug 24 23:22:39 2011] [debug] GET /ajax/word/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:22:39 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:22:39 2011] [debug] 200 OK (0.654891s, 1.527/s).
+[Wed Aug 24 23:31:15 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:31:17 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:31:22 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:31:22 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:31:22 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:31:22 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:31:22 2011] [debug] 200 OK (0.063690s, 15.701/s).
+[Wed Aug 24 23:31:22 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:31:22 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:31:23 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:31:23 2011] [debug] 200 OK (0.834926s, 1.198/s).
+[Wed Aug 24 23:32:20 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:32:22 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:32:25 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:32:25 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:32:25 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:32:25 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:32:25 2011] [debug] 200 OK (0.063470s, 15.755/s).
+[Wed Aug 24 23:32:25 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:32:25 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:32:26 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:32:26 2011] [debug] 200 OK (0.771039s, 1.297/s).
+[Wed Aug 24 23:34:03 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:34:05 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:34:09 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:34:09 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:34:09 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:34:09 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:34:09 2011] [debug] 200 OK (0.054689s, 18.285/s).
+[Wed Aug 24 23:34:09 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:34:09 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:34:10 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:34:10 2011] [debug] 200 OK (0.830270s, 1.204/s).
+[Wed Aug 24 23:34:31 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:34:33 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:35:53 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:35:55 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:35:58 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:35:58 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:35:58 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:35:58 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:35:58 2011] [debug] 200 OK (0.057194s, 17.484/s).
+[Wed Aug 24 23:35:59 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:35:59 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:36:00 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:36:00 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:36:00 2011] [debug] Template "exception.development.html.ep" not found.
+[Wed Aug 24 23:36:00 2011] [debug] Template "exception.html.ep" not found.
+[Wed Aug 24 23:36:00 2011] [debug] Rendering inline template.
+[Wed Aug 24 23:36:00 2011] [debug] 500 Internal Server Error (0.831982s, 1.202/s).
+[Wed Aug 24 23:36:00 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:36:07 2011] [debug] GET /ajax/hashtag/YAPC (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:36:07 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:36:08 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:36:08 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:36:08 2011] [debug] Template "exception.development.html.ep" not found.
+[Wed Aug 24 23:36:08 2011] [debug] Template "exception.html.ep" not found.
+[Wed Aug 24 23:36:08 2011] [debug] 500 Internal Server Error (0.670214s, 1.492/s).
+[Wed Aug 24 23:36:08 2011] [error] Undefined subroutine &TwitterSearchViewer::TwitterModel::apply_filters called at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Wed Aug 24 23:37:41 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:37:43 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:37:46 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:37:46 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:37:46 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:37:46 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:37:46 2011] [debug] 200 OK (0.051085s, 19.575/s).
+[Wed Aug 24 23:37:46 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:37:46 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:37:47 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:37:47 2011] [debug] 200 OK (0.814280s, 1.228/s).
+[Wed Aug 24 23:38:39 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:38:41 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:38:44 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:38:44 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:38:44 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:38:44 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:38:44 2011] [debug] 200 OK (0.074751s, 13.378/s).
+[Wed Aug 24 23:38:44 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:38:44 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:38:45 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:38:45 2011] [debug] 200 OK (0.691847s, 1.445/s).
+[Wed Aug 24 23:42:01 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:42:03 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:42:09 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:42:09 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:42:09 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:42:09 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:42:09 2011] [debug] 200 OK (0.052571s, 19.022/s).
+[Wed Aug 24 23:42:10 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:42:10 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:42:11 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:42:11 2011] [debug] 200 OK (0.921652s, 1.085/s).
+[Wed Aug 24 23:47:48 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:47:51 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:47:54 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:47:54 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:47:54 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:47:54 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:47:54 2011] [debug] 200 OK (0.067808s, 14.748/s).
+[Wed Aug 24 23:47:55 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:47:55 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:47:56 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:47:56 2011] [debug] 200 OK (0.885148s, 1.130/s).
+[Wed Aug 24 23:50:07 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:50:09 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:50:13 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:50:13 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:50:13 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:50:13 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:50:13 2011] [debug] 200 OK (0.058362s, 17.134/s).
+[Wed Aug 24 23:50:14 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:50:14 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:50:14 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:50:14 2011] [debug] 200 OK (0.746373s, 1.340/s).
+[Wed Aug 24 23:51:59 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:52:02 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:52:05 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:52:05 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:52:05 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:52:05 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:52:05 2011] [debug] 200 OK (0.043254s, 23.119/s).
+[Wed Aug 24 23:52:05 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:52:05 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:52:06 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:52:06 2011] [debug] 200 OK (0.906245s, 1.103/s).
+[Wed Aug 24 23:53:50 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Wed Aug 24 23:53:53 2011] [info] Server listening (http://*:3000)
+[Wed Aug 24 23:53:57 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:53:57 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Wed Aug 24 23:53:57 2011] [debug] Rendering template "page/display.html.ep".
+[Wed Aug 24 23:53:57 2011] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug 24 23:53:57 2011] [debug] 200 OK (0.049955s, 20.018/s).
+[Wed Aug 24 23:53:58 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Wed Aug 24 23:53:58 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Wed Aug 24 23:53:58 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Wed Aug 24 23:53:58 2011] [debug] 200 OK (0.833997s, 1.199/s).
+[Thu Aug 25 00:00:45 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:00:48 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:00:51 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:00:51 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:00:51 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:00:51 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:00:51 2011] [debug] 200 OK (0.049817s, 20.073/s).
+[Thu Aug 25 00:00:52 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:00:52 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:00:53 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Thu Aug 25 00:00:53 2011] [debug] 200 OK (0.856285s, 1.168/s).
+[Thu Aug 25 00:02:31 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:02:34 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:02:37 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:02:37 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:02:37 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:02:37 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:02:37 2011] [debug] 200 OK (0.059490s, 16.810/s).
+[Thu Aug 25 00:02:37 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:02:37 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:02:38 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Thu Aug 25 00:02:38 2011] [debug] 200 OK (0.779835s, 1.282/s).
+[Thu Aug 25 00:04:38 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:04:41 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:04:45 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:04:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:04:45 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:04:45 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:04:45 2011] [debug] 200 OK (0.055005s, 18.180/s).
+[Thu Aug 25 00:04:45 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:04:45 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:04:46 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Thu Aug 25 00:04:46 2011] [debug] 200 OK (0.946724s, 1.056/s).
+[Thu Aug 25 00:07:29 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:07:31 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:07:36 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:07:36 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:07:36 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:07:36 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:07:37 2011] [debug] 200 OK (0.065983s, 15.155/s).
+[Thu Aug 25 00:07:37 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:07:37 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:07:38 2011] [error] Can't locate object method "apply_filters" via package "TwitterSearchViewer::TwitterModel" at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Thu Aug 25 00:07:38 2011] [error] Can't locate object method "apply_filters" via package "TwitterSearchViewer::TwitterModel" at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Thu Aug 25 00:07:38 2011] [debug] Template "exception.development.html.ep" not found.
+[Thu Aug 25 00:07:38 2011] [debug] Template "exception.html.ep" not found.
+[Thu Aug 25 00:07:38 2011] [debug] Rendering inline template.
+[Thu Aug 25 00:07:38 2011] [debug] 500 Internal Server Error (1.049382s, 0.953/s).
+[Thu Aug 25 00:07:38 2011] [error] Can't locate object method "apply_filters" via package "TwitterSearchViewer::TwitterModel" at script/../lib/TwitterSearchViewer/TwitterModel.pm line 32.
+
+[Thu Aug 25 00:08:41 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:08:43 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:08:46 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:08:46 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:08:46 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:08:46 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:08:46 2011] [debug] 200 OK (0.058388s, 17.127/s).
+[Thu Aug 25 00:08:47 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:08:47 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:08:47 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Thu Aug 25 00:08:47 2011] [debug] 200 OK (0.879201s, 1.137/s).
+[Thu Aug 25 00:10:24 2011] [debug] Reading config file "/home/bfaist/perl/twitter_search_viewer/config.json".
+[Thu Aug 25 00:10:27 2011] [info] Server listening (http://*:3000)
+[Thu Aug 25 00:10:35 2011] [debug] GET / (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:10:35 2011] [debug] Dispatching "TwitterSearchViewer::Page->display".
+[Thu Aug 25 00:10:35 2011] [debug] Rendering template "page/display.html.ep".
+[Thu Aug 25 00:10:35 2011] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug 25 00:10:35 2011] [debug] 200 OK (0.052701s, 18.975/s).
+[Thu Aug 25 00:10:36 2011] [debug] GET /ajax/hashtag/perl (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:10:36 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:10:36 2011] [debug] Rendering template "page/ajax_search.html.ep".
+[Thu Aug 25 00:10:36 2011] [debug] 200 OK (0.847807s, 1.180/s).
+[Thu Aug 25 00:10:42 2011] [debug] GET /ajax/hashtag/mojolicious (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:10:42 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:10:42 2011] [debug] 200 OK (0.525890s, 1.902/s).
+[Thu Aug 25 00:10:46 2011] [debug] GET /ajax/hashtag/perl6 (Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1).
+[Thu Aug 25 00:10:46 2011] [debug] Dispatching "TwitterSearchViewer::Page->ajax_search".
+[Thu Aug 25 00:10:46 2011] [debug] 200 OK (0.424951s, 2.353/s).
