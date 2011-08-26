@@ -2,6 +2,10 @@ body {
 	font-size: 14pt;
 }
 
+#search_results_table {
+	margin-top: 10px;
+}
+
 .search_term_item {
 	list-style: none;
 	padding: 7px;
@@ -24,3 +28,33 @@ body {
 .tweet_text {
 	background-color: #EEEEEE;
 }
+
+#footer {
+	height: 70px;
+}
+
+#footer_links {
+	margin-top: 20px;
+	text-align: center;
+}
+
+#footer_links li {
+	list-style: none;
+	display: inline;
+	padding: 30px;
+}
+
+.gradientV{
+/* thanks to http://blog.fakedarren.com/2010/01/cross-browser-css-gradients/ */
+/* and http://www.puremango.co.uk/2010/04/css-gradient/ */
+    /* fallback (Opera) */
+    background: #c81e2b;
+    /* Mozilla: */
+    background: -moz-linear-gradient(top, #c81e2b, #FFFFFF);
+    /* Chrome, Safari:*/
+    background: -webkit-gradient(linear,
+                left top, left bottom, from(#c81e2b), to(#FFFFFF));
+    /* MSIE */
+    filter: progid:DXImageTransform.Microsoft.Gradient(
+                StartColorStr='#c81e2b', EndColorStr='#FFFFFF', GradientType=0);
+  }
