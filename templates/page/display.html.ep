@@ -11,10 +11,12 @@
 </a></li>
 <% } %>
 </ul>
+<div id="loading">Searching....</div>
 </div>
-<div class="grid_9" id="tweet_list"> </div>
+<div class="grid_9" id="tweet_list">
+</div>
 <div class="clear"></div>
-<div id="footer" class="grid_12 gradientV">
+<div id="footer" class="grid_12">
 <ul id="footer_links">
 <li><a href="#" onClick="alert('Mojolicious / Twitter experiment to watch tweets related to Perl programming language.');">About</a></li>
 <li><a target="_blank" href="https://github.com/bfaist/Twitter-Search-Viewer">Github</a></li>
